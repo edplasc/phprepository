@@ -1,4 +1,4 @@
 <?php
-$txt = "PHP";
-echo "I love $txt! very very much";
+//PHP code
+    echo "Hello, World!"
 ?>
