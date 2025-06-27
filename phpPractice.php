@@ -1,4 +1,3 @@
 <?php
-//PHP code
-    echo "Hello, World!"
+    echo "Just a little test!";
 ?>
