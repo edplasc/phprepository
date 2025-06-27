@@ -1,7 +1,12 @@
 <?php
-    //Let's try a different variable
-    $age = 26;
-    $sentence = "My age is: ";
-
-    echo "Hello $sentence $age";
+    //Let's make a boolean if statement
+    $myBoolean = true;
+    if(!$myBoolean)
+    {
+        echo "Your boolean is true!";
+    }
+    else
+    {
+        echo "Your boolean is not true!";
+    }
 ?>
