@@ -1,7 +1,7 @@
 <?php
-//Displaying my age
-echo "What is your age?";
-$age = 26;
-echo "My age is $age for now"; 
+    //Let's try a different variable
+    $age = 26;
+    $sentence = "My age is: ";
 
+    echo "Hello $sentence $age";
 ?>
