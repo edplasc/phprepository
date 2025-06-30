@@ -1,12 +1,12 @@
 <?php
     //Let's make a boolean if statement
-    $myBoolean = true;
-    if(!$myBoolean)
+    $booleanVar = false;
+    if($booleanVar)
     {
-        echo "Your boolean is true!";
+        echo "The variable is true!";
     }
-    else
-    {
-        echo "Your boolean is not true!";
-    }
+   else
+   {
+        echo "The variable is not true";
+   }
 ?>
