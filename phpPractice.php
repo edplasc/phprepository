@@ -1,12 +1,5 @@
 <?php
-    //Let's make a boolean if statement
-    $booleanVar = false;
-    if($booleanVar)
-    {
-        echo "The variable is true!";
-    }
-   else
-   {
-        echo "The variable is not true";
-   }
+    //Let's make an arrangement
+    $arr = [1,2,3,4,5];
+    echo "The value of 5 is: $arr[4]";
 ?>
