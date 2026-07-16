@@ -1,2 +1,2 @@
 # phprepository
-This repository is to practice php and githubsimultaneously
+This repository is to practice php and github simultaneously
